@@ -1,0 +1,6 @@
+c:\users\newase_p\documents\visual studio 2015\Projects\multiThreadingDemo\multiThreadingDemo\bin\Debug\multiThreadingDemo.exe.config
+c:\users\newase_p\documents\visual studio 2015\Projects\multiThreadingDemo\multiThreadingDemo\bin\Debug\multiThreadingDemo.exe
+c:\users\newase_p\documents\visual studio 2015\Projects\multiThreadingDemo\multiThreadingDemo\bin\Debug\multiThreadingDemo.pdb
+c:\users\newase_p\documents\visual studio 2015\Projects\multiThreadingDemo\multiThreadingDemo\obj\Debug\multiThreadingDemo.csprojResolveAssemblyReference.cache
+c:\users\newase_p\documents\visual studio 2015\Projects\multiThreadingDemo\multiThreadingDemo\obj\Debug\multiThreadingDemo.exe
+c:\users\newase_p\documents\visual studio 2015\Projects\multiThreadingDemo\multiThreadingDemo\obj\Debug\multiThreadingDemo.pdb
