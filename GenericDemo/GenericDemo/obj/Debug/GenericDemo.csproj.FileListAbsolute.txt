@@ -1,0 +1,6 @@
+c:\users\newase_p\documents\visual studio 2015\Projects\GenericDemo\GenericDemo\bin\Debug\GenericDemo.exe.config
+c:\users\newase_p\documents\visual studio 2015\Projects\GenericDemo\GenericDemo\bin\Debug\GenericDemo.exe
+c:\users\newase_p\documents\visual studio 2015\Projects\GenericDemo\GenericDemo\bin\Debug\GenericDemo.pdb
+c:\users\newase_p\documents\visual studio 2015\Projects\GenericDemo\GenericDemo\obj\Debug\GenericDemo.csprojResolveAssemblyReference.cache
+c:\users\newase_p\documents\visual studio 2015\Projects\GenericDemo\GenericDemo\obj\Debug\GenericDemo.exe
+c:\users\newase_p\documents\visual studio 2015\Projects\GenericDemo\GenericDemo\obj\Debug\GenericDemo.pdb
