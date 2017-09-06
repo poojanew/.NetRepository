@@ -1,0 +1,10 @@
+c:\users\newase_p\documents\visual studio 2015\Projects\EntityDemo1\EntityDemo1\bin\Debug\EntityDemo1.exe.config
+c:\users\newase_p\documents\visual studio 2015\Projects\EntityDemo1\EntityDemo1\bin\Debug\EntityDemo1.exe
+c:\users\newase_p\documents\visual studio 2015\Projects\EntityDemo1\EntityDemo1\bin\Debug\EntityDemo1.pdb
+c:\users\newase_p\documents\visual studio 2015\Projects\EntityDemo1\EntityDemo1\bin\Debug\EntityFramework.dll
+c:\users\newase_p\documents\visual studio 2015\Projects\EntityDemo1\EntityDemo1\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\newase_p\documents\visual studio 2015\Projects\EntityDemo1\EntityDemo1\bin\Debug\EntityFramework.xml
+c:\users\newase_p\documents\visual studio 2015\Projects\EntityDemo1\EntityDemo1\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\newase_p\documents\visual studio 2015\Projects\EntityDemo1\EntityDemo1\obj\Debug\EntityDemo1.csprojResolveAssemblyReference.cache
+c:\users\newase_p\documents\visual studio 2015\Projects\EntityDemo1\EntityDemo1\obj\Debug\EntityDemo1.exe
+c:\users\newase_p\documents\visual studio 2015\Projects\EntityDemo1\EntityDemo1\obj\Debug\EntityDemo1.pdb

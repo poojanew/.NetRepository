@@ -1,0 +1,12 @@
+c:\users\newase_p\documents\visual studio 2015\Projects\DataFirstApproachDemo\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+c:\users\newase_p\documents\visual studio 2015\Projects\DataFirstApproachDemo\ConsoleApp\bin\Debug\ConsoleApp.exe
+c:\users\newase_p\documents\visual studio 2015\Projects\DataFirstApproachDemo\ConsoleApp\bin\Debug\ConsoleApp.pdb
+c:\users\newase_p\documents\visual studio 2015\Projects\DataFirstApproachDemo\ConsoleApp\bin\Debug\DataFirstApproachDemo.dll
+c:\users\newase_p\documents\visual studio 2015\Projects\DataFirstApproachDemo\ConsoleApp\bin\Debug\EntityFramework.dll
+c:\users\newase_p\documents\visual studio 2015\Projects\DataFirstApproachDemo\ConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\newase_p\documents\visual studio 2015\Projects\DataFirstApproachDemo\ConsoleApp\bin\Debug\DataFirstApproachDemo.pdb
+c:\users\newase_p\documents\visual studio 2015\Projects\DataFirstApproachDemo\ConsoleApp\bin\Debug\EntityFramework.xml
+c:\users\newase_p\documents\visual studio 2015\Projects\DataFirstApproachDemo\ConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\newase_p\documents\visual studio 2015\Projects\DataFirstApproachDemo\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\newase_p\documents\visual studio 2015\Projects\DataFirstApproachDemo\ConsoleApp\obj\Debug\ConsoleApp.exe
+c:\users\newase_p\documents\visual studio 2015\Projects\DataFirstApproachDemo\ConsoleApp\obj\Debug\ConsoleApp.pdb
