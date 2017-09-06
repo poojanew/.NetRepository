@@ -1,0 +1,6 @@
+c:\users\newase_p\documents\visual studio 2015\Projects\areaMasterProject\areaMasterProject\bin\Debug\areaMasterProject.exe.config
+c:\users\newase_p\documents\visual studio 2015\Projects\areaMasterProject\areaMasterProject\bin\Debug\areaMasterProject.exe
+c:\users\newase_p\documents\visual studio 2015\Projects\areaMasterProject\areaMasterProject\bin\Debug\areaMasterProject.pdb
+c:\users\newase_p\documents\visual studio 2015\Projects\areaMasterProject\areaMasterProject\obj\Debug\areaMasterProject.csprojResolveAssemblyReference.cache
+c:\users\newase_p\documents\visual studio 2015\Projects\areaMasterProject\areaMasterProject\obj\Debug\areaMasterProject.exe
+c:\users\newase_p\documents\visual studio 2015\Projects\areaMasterProject\areaMasterProject\obj\Debug\areaMasterProject.pdb
