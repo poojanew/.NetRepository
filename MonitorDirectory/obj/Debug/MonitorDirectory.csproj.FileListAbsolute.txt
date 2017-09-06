@@ -1,0 +1,13 @@
+c:\users\newase_p\documents\visual studio 2015\Projects\MonitorDirectory\MonitorDirectory\bin\Debug\MonitorDirectory.exe.config
+c:\users\newase_p\documents\visual studio 2015\Projects\MonitorDirectory\MonitorDirectory\bin\Debug\MonitorDirectory.exe
+c:\users\newase_p\documents\visual studio 2015\Projects\MonitorDirectory\MonitorDirectory\bin\Debug\MonitorDirectory.pdb
+c:\users\newase_p\documents\visual studio 2015\Projects\MonitorDirectory\MonitorDirectory\obj\Debug\MonitorDirectory.csprojResolveAssemblyReference.cache
+c:\users\newase_p\documents\visual studio 2015\Projects\MonitorDirectory\MonitorDirectory\obj\Debug\MonitorDirectory.Service1.resources
+c:\users\newase_p\documents\visual studio 2015\Projects\MonitorDirectory\MonitorDirectory\obj\Debug\MonitorDirectory.csproj.GenerateResource.Cache
+c:\users\newase_p\documents\visual studio 2015\Projects\MonitorDirectory\MonitorDirectory\obj\Debug\MonitorDirectory.exe
+c:\users\newase_p\documents\visual studio 2015\Projects\MonitorDirectory\MonitorDirectory\obj\Debug\MonitorDirectory.pdb
+c:\users\newase_p\documents\visual studio 2015\Projects\MonitorDirectory\MonitorDirectory\obj\Debug\MonitorDirectory.ProjectInstaller.resources
+C:\Users\newase_p\Documents\Visual Studio 2015\Projects\MonitorDirectory\MonitorDirectory\bin\Debug\MonitorDirectory.exe.manifest
+C:\Users\newase_p\Documents\Visual Studio 2015\Projects\MonitorDirectory\MonitorDirectory\bin\Debug\MonitorDirectory.application
+C:\Users\newase_p\Documents\Visual Studio 2015\Projects\MonitorDirectory\MonitorDirectory\obj\Debug\MonitorDirectory.exe.manifest
+C:\Users\newase_p\Documents\Visual Studio 2015\Projects\MonitorDirectory\MonitorDirectory\obj\Debug\MonitorDirectory.application
