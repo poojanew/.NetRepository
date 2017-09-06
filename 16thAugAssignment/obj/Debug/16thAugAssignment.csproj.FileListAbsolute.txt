@@ -1,0 +1,6 @@
+c:\users\newase_p\documents\visual studio 2015\Projects\16thAugAssignment\16thAugAssignment\bin\Debug\16thAugAssignment.exe.config
+c:\users\newase_p\documents\visual studio 2015\Projects\16thAugAssignment\16thAugAssignment\obj\Debug\16thAugAssignment.csprojResolveAssemblyReference.cache
+c:\users\newase_p\documents\visual studio 2015\Projects\16thAugAssignment\16thAugAssignment\bin\Debug\16thAugAssignment.exe
+c:\users\newase_p\documents\visual studio 2015\Projects\16thAugAssignment\16thAugAssignment\bin\Debug\16thAugAssignment.pdb
+c:\users\newase_p\documents\visual studio 2015\Projects\16thAugAssignment\16thAugAssignment\obj\Debug\16thAugAssignment.exe
+c:\users\newase_p\documents\visual studio 2015\Projects\16thAugAssignment\16thAugAssignment\obj\Debug\16thAugAssignment.pdb
