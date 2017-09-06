@@ -1,0 +1,6 @@
+c:\users\newase_p\documents\visual studio 2015\Projects\arrayTuples\arrayTuples\bin\Debug\arrayTuples.exe.config
+c:\users\newase_p\documents\visual studio 2015\Projects\arrayTuples\arrayTuples\bin\Debug\arrayTuples.exe
+c:\users\newase_p\documents\visual studio 2015\Projects\arrayTuples\arrayTuples\bin\Debug\arrayTuples.pdb
+c:\users\newase_p\documents\visual studio 2015\Projects\arrayTuples\arrayTuples\obj\Debug\arrayTuples.csprojResolveAssemblyReference.cache
+c:\users\newase_p\documents\visual studio 2015\Projects\arrayTuples\arrayTuples\obj\Debug\arrayTuples.exe
+c:\users\newase_p\documents\visual studio 2015\Projects\arrayTuples\arrayTuples\obj\Debug\arrayTuples.pdb
